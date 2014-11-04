@@ -6,10 +6,10 @@ Este es un primer texto para *modificar*, **cambiar** y jugar.
 
 Pueden:
 
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
+- Borr ![beemo](https://cdn3.iconfinder.com/data/icons/musthave/16/Check.png)
+- Modificarmaxxx ![beemo](https://cdn3.iconfinder.com/data/icons/musthave/16/Check.png)
+- Dejarme como está y agregar nuevas carpetas ![beemo](https://cdn3.iconfinder.com/data/icons/musthave/16/Check.png)
+- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork) 
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![beemo](https://octodex.github.com/images/heisencat.png "Esta es una nueva imagen")
 
